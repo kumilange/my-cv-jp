@@ -2,14 +2,14 @@
 
 ## 👋 イントロダクション
 
-初めまして、原口久美子と申します。Frontend に強いですが、Backend も UI/UX も Web に関することは何でも好きです＆学びます。グローバルな環境で様々な考えを持つ人達と、互いに刺激し合いながら仕事するのが好きです。
+初めまして、原口久美子と申します。Frontend に強いですが、Backend も UI/UX も Web に関することは何でも好きです＆学びます。グローバルな環境で様々な考えを持つ人達と仕事をするのが好きです。
 
 ## 👩🏻 基本情報
 
 | key      | value                                                                         |
 | -------- | ----------------------------------------------------------------------------- |
 | Name     | 原口　久美子（はらぐち くみこ）                                               |
-| LinkedIn | [Kumiko Haraguchi](https://www.linkedin.com/in/kumikoharaguchi/?locale=en_US) |
+| LinkedIn | [Kumiko Haraguchi](https://www.linkedin.com/in/kumikoharaguchi/?locale=ja_JP) |
 
 ## 💼 職務経歴
 
@@ -19,7 +19,7 @@
 
 - Checkout のデザインリニューアルに向け、Page Model パターンを用いた E2E テスト設計を担当
 - UI デザインの一貫性や実装の効率化を見据え、プロダクト間で共有するデザインシステムを構築
-- UX デザイナー、BE エンジニア、プロダクトマネジャー との円滑なコミュニケーションによるスピーディな新規・追加機能開発を実現
+- デザイナー、BE エンジニア、プロダクトマネジャー との円滑なコミュニケーションによるスピーディな新規・追加機能開発を実現
 
 #### マーケティング
 
@@ -28,7 +28,7 @@
 
 #### 技術サポート
 
-- 新規加盟店の Checkout 導入時に発生する技術的な問題や問合せ対応を担当
+- 新規加盟店の Checkout 導入時に発生する技術的な問題や問合せについて Technical Account Manager をサポート
 
 ### 2. [Code Chrysalis](https://www.codechrysalis.io/)：Educational Software Engineer（2017/10 - 2017/12）
 
