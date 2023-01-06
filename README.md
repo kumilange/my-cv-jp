@@ -1,4 +1,4 @@
-# 職務経歴書(2020 年 9 月時点)
+# 職務経歴書(2023 年 1 月時点)
 
 ## 👋 イントロダクション
 
@@ -13,7 +13,15 @@
 
 ## 💼 職務経歴
 
-### 1. [Paidy](https://paidy.com/)：フロントエンドエンジニア（2018/3 - 2020/7）
+### 1. [Synspective](https://synspective.com/)：シニアフロントエンジニア（2020/11 - 2022/12）
+
+- [FDA（Flood Damage Assessment）](https://synspective.com/solutions/flood-damage-2/)の開発およびPMやスクラムマスターとしてサービス開発全体をリード
+- ポータルサイトや営業支援ツールなど４つの短期プロジェクトの開発をリード、期限内のリリースを果たす
+- コードレビューのフィードバックを活性化し、保守性や可読性を意識した高品質のコードを目指すようチームのマインド向上に貢献
+- [NEDO Supply Chain Data Challenge](https://supplychain-data-challenge.nedo.go.jp/) システム開発部門のコンテストに参加。データ可視化アプリ開発を担当し２位を獲得。
+
+
+### 2. [Paidy](https://paidy.com/)：フロントエンドエンジニア（2018/3 - 2020/7）
 
 #### プロダクト
 
@@ -30,7 +38,7 @@
 
 - 新規加盟店の Checkout 導入時に発生する技術的な問題や問合せについて Technical Account Manager をサポート
 
-### 2. [Code Chrysalis](https://www.codechrysalis.io/)：Educational Software Engineer（2017/10 - 2017/12）
+### 3. [Code Chrysalis](https://www.codechrysalis.io/)：Educational Software Engineer（2017/10 - 2017/12）
 
 #### ソフトウェアエンジニア業務
 
@@ -42,7 +50,7 @@
 - アルゴリズムチャレンジの解説講義
 - 授業のティーチングアシスタント
 
-### 3. [Lei Hau'oli](https://www.leihauoli.com/)：フロントエンドエンジニア（2015/09 - 2017/06）
+### 4. [Lei Hau'oli](https://www.leihauoli.com/)：フロントエンドエンジニア（2015/09 - 2017/06）
 
 #### Web サービス・アプリ
 
@@ -60,7 +68,7 @@
 - 化粧品プロダクトプロモーションサイト作成
   - 開発メンバ（5 人）をリードしつつ、2 週間で 10 ページのレスポンシブ画面（PC/TB/SP）を作成
 
-### 4. [NTT データ ジェトロニクス](https://www.nttdata-getronics.co.jp/)：システムエンジニア（2014/04 - 2015/08）
+### 5. [NTT データ ジェトロニクス](https://www.nttdata-getronics.co.jp/)：システムエンジニア（2014/04 - 2015/08）
 
 #### 海外ソフトウェア製品の社内技術窓口
 
@@ -75,22 +83,17 @@
 
 #### 💻 テクニカル
 
-- 得意
-  - HTML5, CSS3, JavaScript, [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux), [GatsbyJS](https://www.gatsbyjs.org/), Sass
-- 実務経験あり
-  - AWS([Lambda](https://aws.amazon.com/jp/lambda/), [API Gateway](https://aws.amazon.com/jp/api-gateway/)), [CircleCI](https://circleci.com/ja/), [Terraform](https://www.terraform.io/), Java
-- 個人で使用経験あり
+- 実務経験での使用豊富
+  - HTML5, CSS3, CSS-In-JS, CSS Modules, TypeScript, [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux), [Redux Toolkit](https://redux-toolkit.js.org/), [Gatsby](https://www.gatsbyjs.com/), [Cypress](https://www.cypress.io/), [Vite](https://ja.vitejs.dev/), [Mapbox GL JS](https://docs.mapbox.com/jp/mapbox-gl-js/overview/), [deck.gl](https://deck.gl/)
+- 実務経験での使用少なめ
+  - [Next.js](https://nextjs.org/), [Jest](https://jestjs.io/ja/), [AWS](https://aws.amazon.com/jp/), [GCP](https://cloud.google.com/), [CircleCI](https://circleci.com/ja/), [Docker](https://www.docker.com/), [Terraform](https://www.terraform.io/), Java
+- 個人開発での使用経験あり
   - [Flutter](https://flutter.dev/), [ExpressJS](https://expressjs.com/), PostgressSQL, [Knex.js](http://knexjs.org/)
 
 #### 🗣 自然言語
 
 - 日本語（ネイティブ）
 - 英語（流暢）TOEIC990 点
-
-### 👀 興味があるもの
-
-- ♿️ アクセシビリティ
-- 🔐 Web セキュリティ
 
 ### 🎙 登壇歴
 
