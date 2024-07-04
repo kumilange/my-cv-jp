@@ -2,14 +2,14 @@
 
 ## 👋 イントロダクション
 
-初めまして、原口久美子と申します。Frontend に強いですが、Backend も UI/UX も Web に関することは何でも好きです＆学びます。グローバルな環境で様々な考えを持つ人達と仕事をするのが好きです。
+初めまして、ランゲ久美子と申します。Frontend に強いですが、Backend も UI/UX も Web に関することは何でも好きです＆学びます。グローバルな環境で様々な考えを持つ人達と仕事をするのが好きです。
 
 ## 👩🏻 基本情報
 
 | key      | value                                                                         |
 | -------- | ----------------------------------------------------------------------------- |
-| Name     | 原口　久美子（はらぐち くみこ）                                               |
-| LinkedIn | [Kumiko Haraguchi](https://www.linkedin.com/in/kumikoharaguchi/?locale=ja_JP) |
+| Name     | ランゲ　久美子（ランゲ くみこ）                                               |
+| LinkedIn | [Kumiko Lange](https://www.linkedin.com/in/kumikolange/) |
 
 ## 💼 職務経歴
 
